@@ -1,0 +1,8 @@
+UPLOADING
+doBuildUpload
+build
+dist
+*.egg-info
+*.swp
+*.pyc
+__pycache__
